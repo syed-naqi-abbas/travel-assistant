@@ -22,12 +22,10 @@ TravelAI addresses this by generating a personalised itinerary and flagging what
 
 ## Team Members
 
-| Name | Role | GitHub / Contact |
-| ---- | ---- | ---------------- |
-| _Your Name_ | _e.g. Full-stack developer_ | [@username](https://github.com/username) |
-| _Teammate 2_ | _e.g. Frontend developer_ | [@username](https://github.com/username) |
-| _Teammate 3_ | _e.g. Backend / AI integration_ | [@username](https://github.com/username) |
-| _Teammate 4_ | _e.g. UI/UX and documentation_ | [@username](https://github.com/username) |
+| Name | Entry No. |
+| ---- | ---- |
+| Syed Naqi Abbas | 2024AIB1087 | 
+| Parth | 2024AIB1012 |
 
 ## Features
 
