@@ -134,4 +134,4 @@ TravelAI is a planning aid, not an emergency authority. In an emergency, call **
 
 ## License
 
-Add a license of your choice (for example MIT) before publishing.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
