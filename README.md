@@ -4,6 +4,31 @@ AI-assisted trip planner for destinations across India. TravelAI generates a day
 
 > **Note:** Safety notes are based on Gemini's general knowledge (typical seasonal weather, altitude, terrain, daylight, activity difficulty). They are **not live data** and are not a guarantee of safety. Always check official advisories before travelling.
 
+## Problem Statement
+
+Planning a trip in India means piecing together information from many places: itinerary blogs, weather apps, maps and advisories. Generic itineraries rarely account for who is travelling (age, group type, accessibility needs, hiking experience, diet), and the factors that can disrupt a plan, such as altitude, seasonal weather, terrain and daylight hours, are easy to miss, especially in mountain regions. Where tools do raise warnings, they often give no reasons or sources and make changes for the traveler instead of letting them choose.
+
+TravelAI addresses this by generating a personalised itinerary and flagging what may affect it, explaining why each flag was raised and leaving every decision with the traveler.
+
+## Objectives
+
+- Generate a personalised, day-by-day itinerary for destinations across India from the traveler's profile and trip preferences.
+- Identify considerations that may affect the plan (weather, terrain, altitude, road conditions) and rate them by severity.
+- Make every flag transparent: show why it appeared, its potential impact and where the information comes from.
+- Keep the traveler in control by offering alternatives, the option to keep the original plan, and undo for any change.
+- Validate destinations early (typos, ambiguous regions, non-India places) to avoid wasted planning.
+- Provide a simple on-trip mode with today's plan, navigation and quick access to emergency help.
+- Be honest about limits: never claim a place "is safe" and clearly label information that is not live data.
+
+## Team Members
+
+| Name | Role | GitHub / Contact |
+| ---- | ---- | ---------------- |
+| _Your Name_ | _e.g. Full-stack developer_ | [@username](https://github.com/username) |
+| _Teammate 2_ | _e.g. Frontend developer_ | [@username](https://github.com/username) |
+| _Teammate 3_ | _e.g. Backend / AI integration_ | [@username](https://github.com/username) |
+| _Teammate 4_ | _e.g. UI/UX and documentation_ | [@username](https://github.com/username) |
+
 ## Features
 
 - **Traveler profile**: name, age, nationality, group type, accessibility needs, dietary preference and interests. Optional personal safety preferences can be skipped.
